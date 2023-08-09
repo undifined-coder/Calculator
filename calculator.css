@@ -1,0 +1,51 @@
+#box
+{
+    background-color: lightgrey;
+    height:500px;
+    width:500px;
+    margin:auto;
+    margin-top:50px;
+}
+
+#c-heading
+{
+    text-align: center;
+    background-color: black;
+    color:white;
+    height:40px;
+}
+
+#screen
+{
+    background-color: white;
+    height:80px;
+    width:450px;
+    margin-left:25px;
+    margin-right:25px;
+    margin-top:15px;
+}
+
+#table
+{   height:340px;
+    width:480px;
+    margin:10px 10px;
+}
+
+.number
+{
+    background-color: white;
+}
+
+.number:hover{
+    background-color:orange;
+}
+
+.operators
+{ background-color: darkred;
+
+}
+
+.operators:hover
+{
+    background-color: yellowgreen;
+}
